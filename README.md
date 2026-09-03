@@ -81,6 +81,5 @@ Contains option lists used in the survey:
 
 ## Video Link
 
-- https://drive.google.com/drive/u/0/folders/1MecesQWL2wOdDj0v9KEo396pzXomBmEm
-
+- https://drive.google.com/drive/folders/1-aXHkBVfa0S6QCTdlDdeJju9Wg7pDydg?usp=drive_link
 
